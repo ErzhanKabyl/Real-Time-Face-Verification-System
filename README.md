@@ -35,3 +35,16 @@ faces: Папка с изображениями для создания базы
 unknown_face: Папка для сохранения изображений неизвестных лиц.
 main.py: Главный файл проекта.
 requirements.txt: Файл с описанием зависимостей.
+
+
+Благодарности:
+
+InsightFace team for the face recognition library.
+Лицензия:
+
+MIT License
+
+Контакты:
+
+Автор: Қабыл Ержан
+Email: eb.kabyl@gmail.com
